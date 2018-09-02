@@ -1,4 +1,4 @@
-/* cashRegister
+/* W02
 *  cashRegister.c
 *  Ivy Leano
 */
