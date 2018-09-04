@@ -1,7 +1,7 @@
 /* W02
-*  cashRegister.c
-*  Ivy Leano
-*/
+ * cashRegister.c
+ * Ivy Leano
+ */
 
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
